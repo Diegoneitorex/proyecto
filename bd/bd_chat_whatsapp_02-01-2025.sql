@@ -52,8 +52,12 @@ INSERT INTO `users` (`id`, `nombre_apellido`, `email_user`, `password`, `imagen`
 (7, 'Diego Rivero', 'diegoarf2448@gmail.com', '$2y$10$lXb1MPVWmiTerzSXknXo0uqad6yI2JKpLzMQY38mPr/Q7/YxhBCi6', '2f0bf8361e.png', 'Inactiva', '02/01/2025 01:31 pm', '02/01/2025 01:34 pm'),
 (8, 'Alejandra Montoya', 'Alejitamon63@gmail.com', '$2y$10$g8gmypNUhklj/UEj67c9qOb0e0Nr0bR61nKZIOWxhHF2UJ2/xAxAe', '378e57d724.jpg', 'Activo', '02/01/2025 01:32 pm', NULL),
 (9, 'Valeria Guzman', 'valeriaguzman344@gmail.com', '$2y$10$dUk8kbtw.2Mte4OrFkJ7RO4OOJ7JJflXIHUtXSuAe9gBn6fF4y7pG', 'b60e824a38.jpg', 'Activo', '02/01/2025 01:34 pm', NULL),
+<<<<<<< HEAD:bd/bd_chat_whatsapp_02-01-2025.sql
 (10, 'Gabriela Peñalieto', 'gabyliieto78@gmail.com', '$2y$10$JgEm.HWXg2KCP5CNYKNs8u7Kp7gLrcuDjujdTkgt52J6SgdLVEA72', '9f2696730e.png', 'Activo', '02/01/2025 01:35 pm', NULL),
 (11, 'Maria Alejandra', 'marialejandra@gmail.com', '$2y$10$qoNHTerHTalBmTUXdfWr4O6xYg6hUmTPotp7SL6IRkyWEPUhUmrm6', '396903fd6e.jpg', 'Activo', '02/01/2025 01:48 pm', NULL);
+=======
+(10, 'Gabriela Peñalieto', 'gabyliieto78@gmail.com', '$2y$10$JgEm.HWXg2KCP5CNYKNs8u7Kp7gLrcuDjujdTkgt52J6SgdLVEA72', '9f2696730e.png', 'Activo', '02/01/2025 01:35 pm', NULL);
+>>>>>>> a327e95d4a9ec91591bb7f6bc9bca680e3846f60:bd/bd_chat_whatsapp 02-01-2025.sql
 
 --
 -- Índices para tablas volcadas
