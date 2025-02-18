@@ -14,7 +14,7 @@ if (isset($_SESSION['email_user']) != "") {
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Instatex,una sala para compartir mensajes, audios, imagenes, videos entre muchascosas mas.">
+    <meta name="description" content="Instatext,una sala para compartir mensajes, audios, imagenes, videos entre muchascosas mas.">
     <meta name="author" content="DIEGO RIVERO">
     <meta name="keyword" content="Web Developer Diego Rivero">
     <title>Chat - WhatApp!</title>

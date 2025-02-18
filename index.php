@@ -12,7 +12,7 @@ if (isset($_SESSION['email_user']) != "") {
 <head>
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta name="description" content="Instatex,una sala para compartir mensajes, audios, imagenes, videos entre muchascosas mas.">
+  <meta name="description" content="Instatext,una sala para compartir mensajes, audios, imagenes, videos entre muchascosas mas.">
   <meta name="author" content="DIEGO RIVERO">
   <meta name="keyword" content="Web Developer Diego Rivero">
   <meta name="viewport" content="width=device-width, initial-scale=1">
