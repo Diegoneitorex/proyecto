@@ -17,7 +17,7 @@ if (isset($_SESSION['email_user']) != "") {
     <meta name="description" content="Instatext,una sala para compartir mensajes, audios, imagenes, videos entre muchascosas mas.">
     <meta name="author" content="DIEGO RIVERO">
     <meta name="keyword" content="Web Developer Diego Rivero">
-    <title>Chat - WhatApp!</title>
+    <title>Instatext</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="shortcut icon" type="image/png" href="assets/img/favicon.png" />
     <link rel="stylesheet" src="https://fonts.googleapis.com/css?family=Roboto:400,700,300" />
